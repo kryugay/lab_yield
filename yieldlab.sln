@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yieldlab", "yieldlab\yieldlab.csproj", "{0FE3FB74-02D7-451E-B141-9FAFCB4A8ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE3FB74-02D7-451E-B141-9FAFCB4A8ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE3FB74-02D7-451E-B141-9FAFCB4A8ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE3FB74-02D7-451E-B141-9FAFCB4A8ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE3FB74-02D7-451E-B141-9FAFCB4A8ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93D0F40-D717-4D21-9744-E4B84D0A4A5C}
+	EndGlobalSection
+EndGlobal
